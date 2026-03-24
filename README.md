@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
@@ -337,14 +338,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
