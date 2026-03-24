@@ -13,11 +13,8 @@ class Solution:
             return 0
         
         cnt = 0
-        # Check if the current node's value matches the target
         if node.val == currentSum:
             cnt += 1
-        
-        # Continue the path downward with the remaining sum
         cnt += self.ps(node.left, currentSum - node.val)
         cnt += self.ps(node.right, currentSum - node.val)
         
