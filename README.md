@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0136-single-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0202-happy-number) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
