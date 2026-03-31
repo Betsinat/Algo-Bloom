@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0661-image-smoother](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0704-binary-search](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0811-subdomain-visit-count](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String Matching
 |  |
