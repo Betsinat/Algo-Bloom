@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0704-binary-search) |
@@ -372,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0078-subsets) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
