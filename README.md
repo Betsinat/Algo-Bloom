@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0498-diagonal-traverse](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0791-custom-sort-string](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
