@@ -6,9 +6,9 @@ class Solution:
         while (left <= right):
             mid =(left +  right) // 2
             if citations[mid] >= n - mid:
-                right -= 1
+                right = mid - 1
             elif citations[mid] < n - mid:
-                left += 1
+                left = mid + 1
         return n - left
 
 
