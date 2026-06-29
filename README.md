@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0274-h-index) |
