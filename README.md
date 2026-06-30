@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
