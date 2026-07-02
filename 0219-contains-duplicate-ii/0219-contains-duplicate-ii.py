@@ -3,7 +3,7 @@ class Solution:
        seen = {}
        for i in range(len(nums)):
              if nums[i] in seen:
-                if  abs(i - seen[nums[i]]) <= k:
+                if i - seen[nums[i]] <= k:
                     return True
              seen[nums[i]] = i
        return False
