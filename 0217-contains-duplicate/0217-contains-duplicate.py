@@ -1,14 +1,14 @@
-class Solution(object):
-    def containsDuplicate(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: bool
-        """
-        count = Counter(nums)
-        for value in count.values():
-            if value > 1:
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        s = set()
+        for n in nums:
+            if n in s:
                 return True
+            else:
+                s.add(n)
         return False
+       
+        
 
 
         
