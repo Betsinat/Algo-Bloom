@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0811-subdomain-visit-count](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0609-find-duplicate-file-in-system](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0763-partition-labels](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
